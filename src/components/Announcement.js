@@ -10,10 +10,12 @@ const Container = styled.div `
     font-size: 14px;
     font-weight: 500;`
 
-export const Announcement = () => {
+const Announcement = () => {
     return (
         <Container>
             Super Deal! Free Shipping on Order Over $50
         </Container>
     )
 }
+
+export default Announcement
