@@ -6,7 +6,7 @@ import { Search,ShoppingCartOutlined  } from "@material-ui/icons";
 const Navbar = () => {
 
 const Container = styled.div `
-    height: 60px;`
+    height: 50px;`
 
 const Wrapper = styled.div `
     padding: 10px 20px;

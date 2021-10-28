@@ -1,11 +1,11 @@
 import { useState } from "react";
-import { ArrowLeftOutlined, ArrowRightOutlined } from "@material-ui/icons"
 import styled from "styled-components"
+import { ArrowLeftOutlined, ArrowRightOutlined } from "@material-ui/icons"
 import {sliderItems} from "../data"
 
 const Container = styled.div `
     width: 100%;
-    height: 100vh;
+    height: 80vh;
     display: flex;
     position: relative;
     overflow: hidden;`
